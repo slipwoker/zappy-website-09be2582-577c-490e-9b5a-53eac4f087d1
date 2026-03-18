@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+בד בבד היא החנות המובילה לבדים אקולוגיים ואורגניים בישראל. בחרו מתוך מגוון עשיר של בדים בני קיימא לתפירה ויצירה, ותרמו לעתיד ירוק יותר עם כל רכישה.
+
+### אודות
+https://example.com/about
+היכנסו לעולמה של בד בבד וגלו את הפילוסופיה שמאחורי הבחירה בבדים אורגניים ובני קיימא. אנחנו מאמינים שאופנה אחראית מתחילה בחומר הגלם — הכירו אותנו.
+
+### לוקבוק
+https://example.com/lookbook
+הלוקבוק של בד בבד הוא מקור ההשראה שלכם לעיצובים עם בדים בני קיימא ואורגניים. גלו קולקציות עונתיות, רעיונות לתפירה יצירתית, ותנו לבדים שלנו לדבר בעד עצמם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על בדים טבעיים, הזמנות או ייעוץ לתפירה? צוות בד בבד כאן בשבילכם. פנו אלינו עוד היום ונעזור לכם למצוא את הבד האקולוגי שמתאים בדיוק לפרויקט שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - בד בבד
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - בד בבד
+
+### Category
+https://example.com/category/:slug
+מוצרים - בד בבד
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
